@@ -1,0 +1,2 @@
+FROM ubuntu14:1.0
+MAINTAINER seafly seafly0616@qq.com

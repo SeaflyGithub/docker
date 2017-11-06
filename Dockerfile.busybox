@@ -1,0 +1,4 @@
+FROM busybox:latest
+MAINTAINER seafly seafly0616@qq.com
+ENTRYPOINT /bin/sh
+CMD echo "hello, docker!"
